@@ -1,2 +1,3 @@
 notebooks/*.csv
 *.pkl
+datasets/*.csv
