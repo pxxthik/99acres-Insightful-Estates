@@ -48,12 +48,14 @@ def inject_css():
     }
     
     /* Profile Links */
+    a{
+        color: var(--text-color) !important;
+    }
     .profile-link {
         display: flex;
         align-items: center;
         gap: 8px;
         padding: 0.5rem;
-        color: #333 !important;
         text-decoration: none !important;
         border-radius: 8px;
         transition: all 0.3s;
