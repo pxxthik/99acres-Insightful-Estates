@@ -31,7 +31,6 @@ def inject_css():
         padding: 1rem;
         height: 14rem;
         border-radius: 12px;
-        background: #f8f9fa;
         margin: 0.8rem 0;
         border: 1px solid #eee;
         transition: transform 0.2s;
@@ -44,7 +43,6 @@ def inject_css():
     .metric-box {
         padding: 1.5rem;
         border-radius: 12px;
-        background: #f8f9fa;
         margin: 1rem 0;
         border: 1px solid #eee;
     }
